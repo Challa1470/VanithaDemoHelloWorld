@@ -1,6 +1,1 @@
 print("Hello_World")
-print("Hello Ravinda")
-print("Hello Vanitha")
-print("hello master")
-print("hello ravi")
-print("hello madam")
